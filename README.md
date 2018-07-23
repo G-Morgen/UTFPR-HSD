@@ -26,3 +26,7 @@ Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 
 
 ## Sample images from UTFTS1 and UTFTS2
 
+![UTFTS1](SamplesUTFTS1.JPG)
+
+![UTFTS2](SamplesUTFTS2.JPG)
+
