@@ -33,7 +33,7 @@ Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 
 ## Links to the data
 
 ### UTFTS1 - Transversally to the lane
-[UTFTS1](hhttp://bioinfo.cpgei.ct.utfpr.edu.br/wordpress2/softwares/)
+[UTFTS1](http://bioinfo.cpgei.ct.utfpr.edu.br/wordpress2/softwares/)
 
 ### UTFTS2 - Longitudinally to the lane
 [UTFTS2](http://bioinfo.cpgei.ct.utfpr.edu.br/wordpress2/softwares/)
@@ -42,7 +42,7 @@ Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 
 
 M. Ribeiro thanks the Catarinense Federal Institute and IFC/CAPES/Prodoutoral for the scholarship; M. Gutoski thanks CAPES for the scholarship; H.S.Lopes thanks CNPq for the research grant number 440977/2015-0. All authors thank NVIDIA for the donation of the GPUs used in this work.
 
-## Publications
+## Publications:
 
 **[1]** M. Ribeiro, A. E. Lazzaretti, H. S. Lopes, A convolutional autoencoder
 with compact embedding and its application to one-class classification
