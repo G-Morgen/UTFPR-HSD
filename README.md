@@ -33,10 +33,10 @@ Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 
 ## Links to the data
 
 ### UTFTS1 - Transversally to the lane
-[UTFTS1](http://bioinfo.cpgei.ct.utfpr.edu.br/wordpress2/softwares/)
+[UTFTS1](https://drive.google.com/file/d/1C3mXMpItQgctGALu7cGMAmeOShXdzIOY/view?usp=sharing)
 
 ### UTFTS2 - Longitudinally to the lane
-[UTFTS2](http://bioinfo.cpgei.ct.utfpr.edu.br/wordpress2/softwares/)
+[UTFTS2](https://drive.google.com/file/d/1-V-NM1uqWSbFNRHp2pZkKsNKvsW1D4Ty/view?usp=sharing)
 
 ## Acknowledgments
 
