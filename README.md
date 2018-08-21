@@ -6,7 +6,7 @@ This dataset was created specifically for anomaly detection in videos. We provid
 
 ## Specifications Table
 
-![Specification Table](SpecificationTable.png)
+![Specification Table](SpecificationTable.jpg)
 
 ## Value of the data
 
