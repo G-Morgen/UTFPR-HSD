@@ -1,8 +1,8 @@
-# UTFTS - Federal University of Technology Traffic Surveillance Dataset
+# UTFPR-HSD - Federal University of Technology - Paraná - Highway Surveillance Dataset
 
 ## Fully-labeled image dataset to anomaly detection
 
-This dataset was created specifically for anomaly detection in videos. We provide annotated video clips and still frames taken in a busy highway. Anomaly in this context, can be described as any of the present classes that are: **cars, trucks, buses, motorcycles, people and vans**. There are two datasets, **UTFTS1** and **UTFTS2**, with videos taken at different positions, transversally and longitudinally to the lane. Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 pixels. There are 61 video clips in total, comprising, 15664 frames.
+This dataset was created specifically for anomaly detection in videos. We provide annotated video clips and still frames taken in a busy highway. Anomaly in this context, can be described as any of the present classes that are: **cars, trucks, buses, motorcycles, people and vans**. There are two datasets, **UTFPR-HSD1** and **UTFPR-HSD2**, with videos taken at different positions, transversally and longitudinally to the lane. Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 pixels. There are 61 video clips in total, comprising, 15664 frames.
 
 ## Specifications Table
 
@@ -18,13 +18,13 @@ This dataset was created specifically for anomaly detection in videos. We provid
 
 ## Data
 
-Data were collected in a highway in a clear day, the initial objective was to detect large vehicles (trucks), since they are not allowed to run during certain hours of the day. Videos were collected with the camera in two positions, such that the highway lane was filmed transversally (UTFTS1) and longitudinally (UTFTS2). For the first case, the camera was positioned at the floor level. For the latter, the camera was positioned above the floor level in an elevated level. UTFTS2 has three different scenarios: (i) vehicles coming towards the camera, (ii) vehicles leaving away the camera with and without obstacles to the camera.
+Data were collected in a highway in a clear day, the initial objective was to detect large vehicles (trucks), since they are not allowed to run during certain hours of the day. Videos were collected with the camera in two positions, such that the highway lane was filmed transversally (UTFPR-HSD1) and longitudinally (UTFPR-HSD2). For the first case, the camera was positioned at the floor level. For the latter, the camera was positioned above the floor level in an elevated level. UTFPR-HSD2 has three different scenarios: (i) vehicles coming towards the camera, (ii) vehicles leaving away the camera with and without obstacles to the camera.
 
 Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 pixels. All frames extracted from videos have the same resolution. The figure below summarizes the quantity of each class in the dataset.
 
 ![Classes UTFTS](ClassesUTFTS.png)
 
-## Sample images from UTFTS1 and UTFTS2
+## Sample images from UTFPR-HSD1 and UTFPR-HSD2
 
 ![UTFTS1](SamplesUTFTS1.JPG)
 
@@ -32,11 +32,11 @@ Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 
 
 ## Links to the data
 
-### UTFTS1 - Transversally to the lane
-[UTFTS1](https://drive.google.com/file/d/1C3mXMpItQgctGALu7cGMAmeOShXdzIOY/view?usp=sharing)
+### UTFPR-HSD1 - Transversally to the lane
+[UTFPR-HSD1](https://drive.google.com/file/d/1C3mXMpItQgctGALu7cGMAmeOShXdzIOY/view?usp=sharing)
 
-### UTFTS2 - Longitudinally to the lane
-[UTFTS2](https://drive.google.com/file/d/1-V-NM1uqWSbFNRHp2pZkKsNKvsW1D4Ty/view?usp=sharing)
+### UTFPR-HSD2 - Longitudinally to the lane
+[UTFPR-HSD2](https://drive.google.com/file/d/1-V-NM1uqWSbFNRHp2pZkKsNKvsW1D4Ty/view?usp=sharing)
 
 ## Acknowledgments
 
