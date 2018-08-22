@@ -33,6 +33,7 @@ Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 
 
 
 ![UTFPR-HSD1](VideoUTFPR-HSD1.gif)
+![UTFPR-HSD1](VideoUTFPR-HSD1.gif)
 
 ## Links to the data
 
