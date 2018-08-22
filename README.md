@@ -29,6 +29,11 @@ Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 
 
 ![UTFPR-HSD2](SamplesUTFPR-HSD2.png)
 
+## Sample video from UTFPR-HSD1 and UTFPR-HSD2
+
+
+![UTFPR-HSD1](VideoUTFPR-HSD1.gif)
+
 ## Links to the data
 
 ### UTFPR-HSD1 - Transversally to the lane
