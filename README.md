@@ -32,7 +32,7 @@ Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 
 ## Sample video from UTFPR-HSD1 and UTFPR-HSD2
 
 
-![UTFPR-HSD1](VideoUTFPR-HSD1.gif) ![UTFPR-HSD1](VideoUTFPR-HSD1.gif)
+![UTFPR-HSD1](test.gif) ![UTFPR-HSD1](test.gif)
 
 ## Links to the data
 
