@@ -26,9 +26,9 @@ Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 
 
 ## Sample images from UTFPR-HSD1 and UTFPR-HSD2
 
-![UTFTS1](SamplesUTFTS1.JPG)
+![UTFPR-HSD1](SamplesUTFPR-HSD1.JPG)
 
-![UTFTS2](SamplesUTFTS2.JPG)
+![UTFPR-HSD2](SamplesUTFPR-HSD2.JPG)
 
 ## Links to the data
 
