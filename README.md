@@ -23,7 +23,6 @@ Data were collected in a highway in a clear day, the initial objective was to de
 Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 pixels. All frames extracted from videos have the same resolution. The figure below summarizes the quantity of each class in the dataset.
 
 ![Classes UTFPR-HSD](ClassesUTFPR-HSD.png)
-
 ## Sample images from UTFPR-HSD1 and UTFPR-HSD2
 
 ![UTFPR-HSD1](SamplesUTFPR-HSD1.png)
