@@ -37,11 +37,11 @@ Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 
 ## Links to the data
 
 ### UTFPR-HSD1 - Transversally to the lane
-[UTFPR-HSD1](https://drive.google.com/file/d/1C3mXMpItQgctGALu7cGMAmeOShXdzIOY/view?usp=sharing)
-
+[UTFPR-HSD1]()
+#https://drive.google.com/file/d/1C3mXMpItQgctGALu7cGMAmeOShXdzIOY/view?usp=sharing
 ### UTFPR-HSD2 - Longitudinally to the lane
-[UTFPR-HSD2](https://drive.google.com/file/d/1-V-NM1uqWSbFNRHp2pZkKsNKvsW1D4Ty/view?usp=sharing)
-
+[UTFPR-HSD2]()
+#https://drive.google.com/file/d/1-V-NM1uqWSbFNRHp2pZkKsNKvsW1D4Ty/view?usp=sharing
 ## Acknowledgments
 
 M. Ribeiro thanks the Catarinense Federal Institute and IFC/CAPES/Prodoutoral for the scholarship; M. Gutoski thanks CNPq for the scholarship; H.S.Lopes thanks CNPq for the research grant number 440977/2015-0. All authors thank NVIDIA for the donation of the GPUs used in this work.
