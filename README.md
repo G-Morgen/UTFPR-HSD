@@ -20,7 +20,7 @@ This dataset was created specifically for anomaly detection in videos. We provid
 
 Data were collected on a highway on a clear day. The initial objective was to detect large vehicles (trucks), since they are not allowed to run during certain hours of the day. Videos were collected with the camera in two positions, such that the highway lane was filmed transversally (UTFPR-HSD1) and longitudinally (UTFPR-HSD2). In the first case, the camera was positioned at the floor level. In the latter, the camera was positioned at an elevated level. UTFPR-HSD2 has different scenarios: vehicles coming towards the camera and vehicles going away from the camera. Moreover, objects become occluded at certain times.
 
-Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 pixels. All frames extracted from videos have the same resolution. The figure below summarizes the quantity of each class in the dataset.
+Videos were collected at 30 fps (frames per second) with resolution 1920 x 1080 pixels. All frames extracted from videos have the same resolution. The figure below summarizes the quantity of each class in the dataset.
 
 ![Classes UTFPR-HSD](ClassesUTFPR-HSD.png)
 ## Sample images from UTFPR-HSD1 and UTFPR-HSD2
