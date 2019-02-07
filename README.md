@@ -48,8 +48,6 @@ M. Ribeiro thanks the Catarinense Federal Institute and IFC/CAPES/Prodoutoral fo
 
 ## Publications:
 
-**[1]** M. Ribeiro, A. E. Lazzaretti, H. S. Lopes, A convolutional autoencoder
-with compact embedding and its application to one-class classification
-problems, Neurocomputing ?? (??) ??–??
+**[1]** M. Ribeiro, A. E. Lazzaretti, H. S. Lopes, A convolutional autoencoder with compact embedding and its application to one-class classification problems, submitted to Machine Vision and Applications.
 
 
