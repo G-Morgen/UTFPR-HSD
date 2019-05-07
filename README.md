@@ -37,10 +37,10 @@ Videos were collected at 30 fps (frames per second) with resolution 1920 x 1080 
 ## Links to the data
 
 ### UTFPR-HSD1 and UTFPR-HSD2
-
+[Download](https://drive.google.com/open?id=1DxK8q6-v_FRsnjQ_RQrZrtVQ8-31gBsC)
 
 ### UTFPR-HSD1 - Transversally to the lane
-[UTFPR-HSD1](https://drive.google.com/file/d/1C3mXMpItQgctGALu7cGMAmeOShXdzIOY/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1C3mXMpItQgctGALu7cGMAmeOShXdzIOY/view?usp=sharing)
 
 ### UTFPR-HSD2 - Longitudinally to the lane
 [UTFPR-HSD2]()
